@@ -163,7 +163,7 @@ The notebook reports:
 
 **Confusion Matrix:**
 
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](Confusion_Marix.png)
 
 ---
 
